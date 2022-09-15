@@ -8,4 +8,4 @@ This diplays the current time in an analogous way
 - Javascript
 
 #Dependencies
-- No dependencies
+- No dependencies..
